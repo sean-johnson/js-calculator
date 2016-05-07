@@ -41,7 +41,7 @@ button {
 
 
 body {
-  background-color: #ededed;
+  background-color: #084C61;
 }
 
 .row {
@@ -87,7 +87,7 @@ body {
   text-align: center;
 }
 
-.btn-equals {
+.btn-long {
   width: 110px;
   text-decoration: none;
   color: gray;
@@ -100,13 +100,13 @@ body {
 
 .btn:hover {
   color: white;
-  background-color: blue;
+  background-color: #084C61;
   cursor: pointer;
 }
 
-.btn-equals:hover {
+.btn-long:hover {
   color: white;
-  background-color: red;
+  background-color: #F0544F;
   cursor: pointer;
 }
 
